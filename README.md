@@ -1,4 +1,4 @@
-Sweet Alert Dialog
+~Sweet Alert Dialog~.  #W.I.P
 ===================
 SweetAlert for Android, a beautiful and clever alert dialog
 
