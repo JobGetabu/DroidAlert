@@ -2,19 +2,20 @@
 ===================
 SweetAlert for Android, a beautiful and clever alert dialog
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Sweet%20Alert%20Dialog-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1065)
+[![Jitpack](https://jitpack.io/v/JobGetabu/DroidAlert.svg)](https://jitpack.io/#JobGetabu/DroidAlert)
 
-[中文版](https://github.com/pedant/sweet-alert-dialog/blob/master/README.zh.md)
+
+[ReadMe](https://github.com/pedant/sweet-alert-dialog/blob/master/README.zh.md)
 
 Inspired by JavaScript [SweetAlert](http://tristanedwards.me/sweetalert)
 
-[Demo Download](https://github.com/pedant/sweet-alert-dialog/releases/download/v1.1/sweet-alert-sample-v1.1.apk)
+[Demo Download](https://github.com/.apk)
 
 ## ScreenShot
 ![image](https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif)
 
 ## Setup
-The simplest way to use SweetAlertDialog is to add the library as aar dependency to your build.
+The simplest way to use SweetAlertDialog is to add ...
 
 **Maven**
 
@@ -27,13 +28,16 @@ The simplest way to use SweetAlertDialog is to add the library as aar dependency
 
 **Gradle**
 
-    repositories {
-        mavenCentral()
-    }
+    allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
 
     dependencies {
-        compile 'cn.pedant.sweetalert:library:1.3'
-    }
+	        implementation 'com.github.JobGetabu:DroidAlert:Tag'
+	}
 
 ## Usage
 
