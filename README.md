@@ -176,7 +176,8 @@ Show the cancel button and bind listener to it：
 - [ ] add lottie 
 - [ ] add animations
 - [ ] create animations
-- [ ] KTX shortcuts 
+- [ ] KTX shortcuts
+- [ ] add CI/CD
 
 ## License
 
