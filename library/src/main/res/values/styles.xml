@@ -11,7 +11,7 @@
         <item name="android:backgroundDimAmount">0.4</item>
     </style>
 
-    <style name="dialog_blue_button" parent="android:Widget.Button">
+    <style name="dialog_blue_button" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">31dp</item>
         <item name="android:background">@drawable/blue_button_background</item>

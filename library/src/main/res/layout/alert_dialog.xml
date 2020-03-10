@@ -146,6 +146,7 @@
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/cancel_button"
+            android:theme="@style/dialog_blue_button"
             style="@style/dialog_blue_button"
             android:background="@drawable/gray_button_background"
             android:layout_marginRight="10dp"
@@ -154,6 +155,7 @@
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/confirm_button"
+            android:theme="@style/dialog_blue_button"
             style="@style/dialog_blue_button"
             android:text="@string/dialog_ok" />
     </LinearLayout>
