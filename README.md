@@ -170,6 +170,13 @@ Show the cancel button and bind listener to it：
 
 [more android tech shares: pedant.cn](http://www.pedant.cn)
 
+## TODO
+
+- [ ] add lottie 
+- [ ] add animations
+- [ ] create animations
+- [ ] KTX shortcuts 
+
 ## License
 
     The MIT License (MIT)
