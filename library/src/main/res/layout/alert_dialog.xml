@@ -144,7 +144,7 @@
         android:layout_height="wrap_content"
         android:gravity="center">
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/cancel_button"
             style="@style/dialog_blue_button"
             android:background="@drawable/gray_button_background"
@@ -152,7 +152,7 @@
             android:visibility="gone"
             android:text="@string/dialog_cancel" />
 
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/confirm_button"
             style="@style/dialog_blue_button"
             android:text="@string/dialog_ok" />
