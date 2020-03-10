@@ -172,6 +172,7 @@ Show the cancel button and bind listener to it：
 
 ## TODO
 
+- [ ] editable styles/components
 - [ ] add lottie 
 - [ ] add animations
 - [ ] create animations
